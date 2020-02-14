@@ -1,4 +1,4 @@
-const name = 'binance'
+const name = 'bybit'
 const Server = require('./server')
 const UDF = require('./udf')
 const API = require('./' + name + '_api')
